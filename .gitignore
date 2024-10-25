@@ -19,6 +19,7 @@ Build/
 *.verse
 *.tmp
 *.user
+!/VerseStarted/
 
 .vproject/
 *.vproject
