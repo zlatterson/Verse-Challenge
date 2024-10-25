@@ -19,9 +19,10 @@ Build/
 *.verse
 *.tmp
 *.user
-!/VerseStarted/
 
 .vproject/
 *.vproject
 *.json
 *.package
+
+!VerseStarted/*.verse
